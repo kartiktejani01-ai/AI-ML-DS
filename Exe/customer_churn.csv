@@ -1,0 +1,21 @@
+Customer_ID,Age,Gender,Tenure,MonthlyCharges,TotalCharges,Contract,InternetService,PaymentMethod,SupportCalls,SatisfactionScore,Churn
+C101,25,Male,12,799,9588,Monthly,Fiber,Credit Card,4,2,Yes
+C102,32,Female,36,599,21564,Yearly,DSL,UPI,1,5,No
+C103,45,Male,5,999,4995,Monthly,Fiber,Credit Card,6,1,Yes
+C104,28,Female,24,699,16776,Yearly,DSL,UPI,2,4,No
+C105,52,Male,48,499,23952,Two Year,DSL,Bank Transfer,1,5,No
+C106,23,Female,3,899,2697,Monthly,Fiber,UPI,7,1,Yes
+C107,40,Male,18,749,13482,Monthly,Fiber,Credit Card,4,2,Yes
+C108,35,Female,30,549,16470,Yearly,DSL,UPI,1,4,No
+C109,29,Male,8,949,7592,Monthly,Fiber,Credit Card,5,2,Yes
+C110,55,Female,60,449,26940,Two Year,DSL,Bank Transfer,0,5,No
+C111,31,Female,10,829,8290,Monthly,Fiber,UPI,5,2,Yes
+C112,48,Male,42,579,24318,Two Year,DSL,Bank Transfer,1,5,No
+C113,26,Female,6,979,5874,Monthly,Fiber,Credit Card,6,1,Yes
+C114,42,Male,27,649,17523,Yearly,Fiber,UPI,2,4,No
+C115,37,Female,20,729,14580,Yearly,DSL,Bank Transfer,2,4,No
+C116,24,Male,4,929,3716,Monthly,Fiber,Credit Card,7,1,Yes
+C117,51,Female,54,479,25866,Two Year,DSL,UPI,0,5,No
+C118,33,Male,15,769,11535,Monthly,Fiber,Credit Card,4,2,Yes
+C119,46,Female,39,569,22191,Yearly,DSL,Bank Transfer,1,5,No
+C120,27,Male,7,899,6293,Monthly,Fiber,UPI,6,1,Yes
