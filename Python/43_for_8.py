@@ -1,0 +1,3 @@
+# 1 3 5 7 9 11 ... 100
+for number in range(1,100,2):
+    print(number,end=" ")
